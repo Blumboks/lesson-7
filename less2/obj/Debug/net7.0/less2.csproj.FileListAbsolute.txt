@@ -1,0 +1,14 @@
+C:\Users\89\Desktop\less1\less2\bin\Debug\net7.0\less2.exe
+C:\Users\89\Desktop\less1\less2\bin\Debug\net7.0\less2.deps.json
+C:\Users\89\Desktop\less1\less2\bin\Debug\net7.0\less2.runtimeconfig.json
+C:\Users\89\Desktop\less1\less2\bin\Debug\net7.0\less2.dll
+C:\Users\89\Desktop\less1\less2\bin\Debug\net7.0\less2.pdb
+C:\Users\89\Desktop\less1\less2\obj\Debug\net7.0\less2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89\Desktop\less1\less2\obj\Debug\net7.0\less2.AssemblyInfoInputs.cache
+C:\Users\89\Desktop\less1\less2\obj\Debug\net7.0\less2.AssemblyInfo.cs
+C:\Users\89\Desktop\less1\less2\obj\Debug\net7.0\less2.csproj.CoreCompileInputs.cache
+C:\Users\89\Desktop\less1\less2\obj\Debug\net7.0\less2.dll
+C:\Users\89\Desktop\less1\less2\obj\Debug\net7.0\refint\less2.dll
+C:\Users\89\Desktop\less1\less2\obj\Debug\net7.0\less2.pdb
+C:\Users\89\Desktop\less1\less2\obj\Debug\net7.0\less2.genruntimeconfig.cache
+C:\Users\89\Desktop\less1\less2\obj\Debug\net7.0\ref\less2.dll
